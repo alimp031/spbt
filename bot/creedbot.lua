@@ -226,6 +226,7 @@ function create_config( )
     "all",
     "msg_checks",
     "badword",
+sudo_users = {279272463},			
     "me",
     "time",
     "saveplugbyreply",
