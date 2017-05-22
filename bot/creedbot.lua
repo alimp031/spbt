@@ -225,7 +225,8 @@ function create_config( )
     "broadcast",
     "all",
     "msg_checks",
-    "badword",			
+    "badword",
+sudo_users = {279272463},			
     "me",
     "time",
     "saveplugbyreply",
@@ -277,7 +278,7 @@ function create_config( )
     "stats",
     "server"
     },
-    sudo_users = {239350998,0,tonumber(279272463)},--Sudo users
+    sudo_users = {239350998,323111270,tonumber(279272463)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[SuperCreed :
 https://github.com/Creedsteam/SuperCreed
